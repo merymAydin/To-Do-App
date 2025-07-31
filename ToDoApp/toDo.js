@@ -6,4 +6,3 @@ const firstBody = document.querySelector("#first-body");
 const secondBody = document.querySelector("#second-body");
 const searchInput = document.querySelector("#search");
 const todoList = document.querySelector("#todo-list");
-const clearButton = document.querySelector("#clear");
